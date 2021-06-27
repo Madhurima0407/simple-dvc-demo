@@ -40,6 +40,12 @@ git remote add origin https://github.com/c17hawke/simple-dvc-demo.git
 git branch -M main
 git push origin main
 ```
+
+##run dvc.yaml to create the mentopned step
+```bash
+dvc repro
+```
+
 tox command -
 
 tox
