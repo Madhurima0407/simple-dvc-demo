@@ -45,7 +45,12 @@ git push origin main
 ```bash
 dvc repro
 ```
-
+```bash
+dvc metrics show
+```
+```bash
+dvc metrics diff
+```
 tox command -
 
 tox
